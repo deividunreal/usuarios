@@ -1,0 +1,24 @@
+{
+  "cadastros": [
+    {
+      "nome": "Carlos Eduardo Lima",
+      "passaporte": "AB123456"
+    },
+    {
+      "nome": "Fernanda Souza Martins",
+      "passaporte": "CD789012"
+    },
+    {
+      "nome": "Roberto Alves Silva",
+      "passaporte": "EF345678"
+    },
+    {
+      "nome": "Juliana Pereira Costa",
+      "passaporte": "GH901234"
+    },
+    {
+      "nome": "Mariana Rocha Mendes",
+      "passaporte": "IJ567890"
+    }
+  ]
+}
